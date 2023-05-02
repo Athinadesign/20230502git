@@ -6,6 +6,8 @@
 - git branch -a : lists all branches
 - git switch <NAME> - moves HEAD /switches your branch to <NAME>
 - git checkout <NAME> - older way to switch branches
-- git log --oneline --graph --all
-- git push
-- fetch prune
+- git log --oneline --graph --all : shows the history 
+- git push <REMOTE> <BRANCH> : push branch to remote, pay attention to what branch you are working on
+- git fetch : updates git log /history without changing files
+- git fetch --prune : delete obsolete remote branches
+- 'git branch; -d <NAME>: delete branch on local machine
