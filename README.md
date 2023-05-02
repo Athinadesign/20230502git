@@ -6,3 +6,6 @@
 - git branch -a : lists all branches
 - git switch <NAME> - moves HEAD /switches your branch to <NAME>
 - git checkout <NAME> - older way to switch branches
+- git log --oneline --graph --all
+- git push
+- fetch prune
