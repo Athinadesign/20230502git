@@ -17,3 +17,4 @@
 
 ##Branches
 - 'git branch; -d <NAME>: delete branch on local machine
+Changes to b2 commit 1
