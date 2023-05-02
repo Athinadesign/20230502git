@@ -10,4 +10,6 @@
 - git push <REMOTE> <BRANCH> : push branch to remote, pay attention to what branch you are working on
 - git fetch : updates git log /history without changing files
 - git fetch --prune : delete obsolete remote branches
+
+##Branches
 - 'git branch; -d <NAME>: delete branch on local machine
