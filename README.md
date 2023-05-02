@@ -14,4 +14,6 @@
 ## Fetch
 - git fetch : updates git log /history without changing files
 - git fetch --prune : delete obsolete remote branches
+
+##Branches
 - 'git branch; -d <NAME>: delete branch on local machine
