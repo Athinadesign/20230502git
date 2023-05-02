@@ -1,0 +1,5 @@
+#branch2 20230502git
+
+- git log --oneline --graph --all
+
+- fetch --prune
